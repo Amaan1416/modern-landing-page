@@ -32,6 +32,3 @@ This project demonstrates frontend development skills such as responsive layouts
 GitHub: https://github.com/Amaan1416
 LinkedIN: https://amaan1416.github.io/modern-landing-page/
 
-**MD Amaan**
-
-GitHub: https://github.com/Amaan1416
